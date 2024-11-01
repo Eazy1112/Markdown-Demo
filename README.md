@@ -1,6 +1,6 @@
-# Markdown Demo Project
+# All About Health and Nutrition
 
-Welcome to the Markdown Demo Project! This project explores various markdown features through Health and Nutrition .
+Welcome to All About Health and Nutrition! This project explores various markdown features through Health and Nutrition .
 
 ## Pages
 - [Page 1: Introduction to Nutrition](Page1.md)
