@@ -1,6 +1,6 @@
 # Micronutrients and Their Importance
 
-In this section, we’ll discuss the importance of vitamins and minerals, known as micronutrients. While they are needed in smaller amounts than macronutrients, they are crucial for maintaining health.
+In this section, we’ll discuss the importance of vitamins, known as micronutrients. While they are needed in smaller amounts than macronutrients, they are crucial for maintaining health.
 
 ## Table of Contents
 - [Vitamins](#vitamins)
