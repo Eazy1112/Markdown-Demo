@@ -5,5 +5,6 @@ Welcome to All About Health and Nutrition! This project explores various markdow
 ## Pages
 - [Page 1: Introduction to Nutrition](Page1.md)
 - [Page 2: Micronutrients and Their Importance](Page2.md)
+- [Page 3: Meal Planning](Page3.md)
 
 Navigate through each page using the links above or the navigation links at the bottom of each page.
